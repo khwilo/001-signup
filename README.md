@@ -2,7 +2,11 @@
 
 ## Task
 
-Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+Create a signup page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can imagine.
+
+## Demo
+
+![signup_form_demo](https://github.com/khwilo/001-signup/blob/master/demo/signup-form-demo.gif)
 
 ## Design inspiration
 
