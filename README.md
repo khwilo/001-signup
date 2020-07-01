@@ -12,7 +12,7 @@ You can view the live by visiting this link <https://signup-ui.netlify.app/>
 
 ## Demo
 
-![signup_form_demo](https://github.com/khwilo/001-signup/blob/master/demo/signup-form-demo.gif)
+![signup_form_image](https://github.com/khwilo/001-signup/blob/master/demo/sign-up-page-demo.png)
 
 ## Design Inspiration
 
